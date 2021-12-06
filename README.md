@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andre-chirindza
-- 👀 I’m interested in Javascript, NodeJS
+- 👀 I’m interested in Javascript, NodeJS, Python
 - 🌱 I’m currently learning NodeJs and ReactJ and i'm enrolled on Intro to Programming Nanodegree Program provided by Udemy and Access Bank
 
 - 📫 How to reach me andrechirindza@gmail.com
